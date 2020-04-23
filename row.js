@@ -1,0 +1,3 @@
+const Row = {
+	dragged: null,
+}
